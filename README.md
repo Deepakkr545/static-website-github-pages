@@ -8,7 +8,10 @@ This is a **modern, animated, and responsive static website** built with HTML, C
 It features an animated gradient background, typing effect, and smooth transitions.
 
 ## 🚀 Live Demo
-[View Website](https://<your-username>.github.io/my-stunning-site)
+
+View Website
+
+https://deepakkr545.github.io/static-website-github-pages
 
 ---
 
