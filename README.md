@@ -1,7 +1,3 @@
-Here’s a **README.md** for your stunning animated website project — professional, clear, and ready for GitHub.
-
----
-
 # 🌟 My Stunning Animated Website
 
 This is a **modern, animated, and responsive static website** built with HTML, CSS, and JavaScript, designed to look visually appealing and smooth on all devices.  
