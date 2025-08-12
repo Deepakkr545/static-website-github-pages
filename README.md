@@ -28,9 +28,7 @@ It features an animated gradient background, typing effect, and smooth transitio
 my-stunning-site/
 
 ├── index.html    # Main HTML page
-
 ├── style.css     # Styling and animations
-
 └── script.js     # Typing animation logic
 
 ---
